@@ -1,0 +1,1 @@
+{"name":"Local: Calcuatesum","url":"c:\\Users\\afzal\\OneDrive\\Desktop\\ch4bEX\\TwoPointerApproach\\Calcuatesum.java","tests":[{"id":1648366255702,"input":"7 20\n2 6 4 3 6 8 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\afzal\\OneDrive\\Desktop\\ch4bEX\\TwoPointerApproach\\Calcuatesum.java","group":"local","local":true}
